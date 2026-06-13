@@ -2,15 +2,13 @@
 
 # Gabriel Conceição da Silva
 
-*"Só se é curioso na proporção de quanto se é instruído."* — Jean-Jacques Rousseau
-
 Bem-vindo ao meu laboratório pessoal. Acredito que o verdadeiro conhecimento vem da vontade de desmontar as engrenagens para entender como tudo funciona por baixo do capô. Uso este espaço para experimentar, testar hipóteses e construir sistemas na interseção entre Backend, Frontend e Infraestrutura. Minhas pesquisas e rascunhos práticos giram em torno da exploração de ecossistemas Linux (Debian), automação em contêineres e arquiteturas de código minimalistas.
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### 📚 Tecnologias em Estudo
 
 <div align="center">
 
@@ -42,13 +40,14 @@ Bem-vindo ao meu laboratório pessoal. Acredito que o verdadeiro conhecimento ve
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Registro de Projetos
 
 <!--
-- **[Nome do Projeto]:** [Breve descrição do problema resolvido]
-  - [Link para o repositório]
+- pj-payroll (privado)
+  Motor de cálculo de folha PJ desenvolvido em Haskell.
+  Em desenvolvimento.
 -->
-*(Espaço reservado para os próximos deploys - **EM BREVE**)*
+- **[folha-pagamento-ads](https://github.com/nobrew-cell/folha-pagamento-ads):** 1º projeto acadêmico em Java, desenvolvido para a unidade curricular Dual do curso de ADS.
 
 ---
 
@@ -67,7 +66,7 @@ A porta do laboratório está sempre aberta. Se você quiser trocar ideias sobre
 </a>
 
 ---
-*Em constante busca por desafios que exijam mais do que apenas a superfície.*
+*"Só se é curioso na proporção de quanto se é instruído."* — Jean-Jacques Rousseau
 
 </div>
 

@@ -12,8 +12,8 @@ Projetos que já estão no GitHub, com histórico e código aberto.
 
 | Projeto | Tecnologia | Foco | Status |
 | :--- | :--- | :--- | :--- |
-| [folha-pagamento-ads](https://github.com/nobrew-cell/folha-pagamento-ads) | `Java` | CLI/Swing | Concluído |
-| [pj-payroll](https://github.com) | `Haskell` | Funcional | Em Dev |
+| [folha-pagamento-ads](https://github.com/nobrew-cell/folha-pagamento-ads) | Feito em `Java` | CLI/Swing | Concluído |
+| [pj-payroll](https://github.com) | `Haskell` e `Java` | Funcional | Em Dev |
 
 </div>
 
@@ -42,4 +42,8 @@ Ferramentas que fiz para me organizar ou automatizar algo. Não estão no GitHub
 
 *Este catálogo é um registro do meu aprendizado. Ainda não me decidi sobre quais ferramentas vou refatorar e publicar por aqui, mas, quando isso acontecer, elas aparecem neste registro.*
 
-[← Voltar ao Início](README.md)
+<div align="center">
+  
+[← Voltar ao Início](https://github.com/nobrew-cell)
+
+</div>

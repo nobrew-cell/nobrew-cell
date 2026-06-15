@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Oi. Me chamo Gabriel Conceição da Silva e sou um entusiasta da tecnologia há um bom tempo. Sempre gostei de computadores e eletrônica, especialmente de desmontar coisas. Eu era curioso o suficiente para abrir qualquer objeto à minha frente — embora não prometa que conseguisse remontá-los, era sempre um exercício divertido. Gosto de me dedicar profundamente ao que me desperta interesse, e hoje transformo essa energia em disciplina para concluir projetos, mesmo aqueles que exigem um rigor técnico maior.
+Oi. Me chamo Gabriel Conceição da Silva, e aqui, como `NOBRE`, e sou um entusiasta da tecnologia há um bom tempo. Sempre gostei de computadores e eletrônica, especialmente de desmontar coisas. Eu era curioso o suficiente para abrir qualquer objeto à minha frente — embora não prometa que conseguisse remontá-los, era sempre um exercício divertido. Gosto de me dedicar profundamente ao que me desperta interesse, e hoje transformo essa energia em disciplina para concluir projetos, mesmo aqueles que exigem um rigor técnico maior.
 
 ### O Caminho até Aqui
 Minha trajetória tecnológica intensificou-se após a pandemia. Com acesso a um computador, decidi explorar o mundo do software. Era um processo intuitivo, onde o erro — aquela tela azul que surgia após alguma "invenção" minha — acabou se tornando o maior combustível para o meu aprendizado, o que me levou naturalmente ao conceito de Linux.
@@ -26,4 +26,9 @@ Este repositório é o meu ambiente de testes, rascunhos e deploys experimentais
 Isso é tudo por enquanto. Aproveite o meu GitHub!
 
 ---
-[← Voltar ao Início](README.md)
+
+<div align="center">
+  
+[← Voltar ao Início](https://github.com/nobrew-cell)
+
+</div>

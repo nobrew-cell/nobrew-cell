@@ -1,34 +1,37 @@
-# Sobre Mim
+# About Me
 
-Oi. Me chamo Gabriel Conceição da Silva, e aqui, como `NOBRE`, sou um entusiasta da tecnologia há um bom tempo. Sempre gostei de computadores e eletrônica, especialmente de desmontar coisas. Eu era curioso o suficiente para abrir qualquer objeto à minha frente — embora não prometa que conseguisse remontá-los, era sempre um exercício divertido. Gosto de me dedicar profundamente ao que me desperta interesse, e hoje transformo essa energia em disciplina para concluir projetos, mesmo aqueles que exigem um rigor técnico maior.
+Hi. My name is Gabriel Conceição da Silva, and here, as `NOBRE`, I have been a tech enthusiast for quite some time. I have always loved computers and electronics, especially taking things apart. I was curious enough to open up every object in front of me—though I can't promise I was always able to put them back together, it was always a fun exercise. I enjoy dedicating myself deeply to what sparks my interest, and today I transform that energy into the discipline needed to complete projects, even those that demand high technical rigor.
 
-### O Caminho até Aqui
-Minha trajetória tecnológica intensificou-se após a pandemia. Com acesso a um computador, decidi explorar o mundo do software. Era um processo intuitivo, onde o erro — aquela tela azul que surgia após alguma "invenção" minha — acabou se tornando o maior combustível para o meu aprendizado, o que me levou naturalmente ao conceito de Linux.
+### The Path So Far
+My technological journey intensified after the pandemic. With access to a computer, I decided to explore the world of software. It was an intuitive process, where failure—the blue screen that would appear after some "invention" of mine—became the greatest fuel for my learning, which naturally led me to the concept of Linux.
 
-Desde então, desenvolvi vários projetos pessoais "na unha", focados em resolver problemas reais. Inicialmente, trabalhava apenas localmente, mas, após o primeiro projeto da faculdade, passei a utilizar o Git e o GitHub. Meus projetos variam de sistemas para rolagem de d20 até aplicações de biblioteca virtual para organizar minhas leituras.
+Since then, I have developed several personal projects from scratch, focused on solving real-world problems. Initially, I worked only locally, but after my first college project, I started using Git and GitHub. My projects range from d20 rolling systems to virtual library applications to organize my readings.
 
-A leitura, inclusive, tornou-se um refúgio fora da tela. Antes restrita ao obrigatório, hoje escolho minhas próprias obras, o que me trouxe uma autossuficiência e tranquilidade valiosas.
+Reading, in fact, has become a refuge away from the screen. Once restricted to what was mandatory, today I choose my own books, which has brought me valuable self-sufficiency and peace of mind.
 
-Minha primeira linguagem foi o Python, que serviu como uma excelente porta de entrada. Ter começado com ela me deu a liberdade para explorar conceitos rapidamente, o que foi fundamental para, mais tarde, encarar linguagens "empresariais" como Java. Aprendi que, embora a complexidade dessas linguagens exija mais esforço, a base que construí anteriormente é o que garante minha motivação.
+My first language was Python, which served as an excellent gateway. Starting with it gave me the freedom to explore concepts quickly, which was fundamental to later tackling "enterprise" languages like Java. I learned that although the complexity of these languages requires more effort, the foundation I built earlier is what sustains my motivation.
 
-Meu primeiro sistema operacional foi o Windows 10. Guardo boas memórias da facilidade com que integrava meus códigos ali, o que me permitiu evoluir de um usuário comum para um superusuário do dispositivo. Paralelamente, minha primeira IDE foi o VS Code; pela sua leveza e ecossistema de extensões, ele ainda ocupa um lugar especial no meu fluxo de trabalho.
+My first operating system was Windows 10. I have fond memories of how easily I could integrate my code there, which allowed me to evolve from an average user to a superuser of the device. At the same time, my first IDE was VS Code; due to its lightness and extension ecosystem, it still holds a special place in my workflow.
 
-Minha primeira distro Linux foi o Debian. Instalado em um computador antigo — que funciona até hoje —, foi nele que realmente aprendi a usar o terminal. Enquanto antes eu dependia dos botões do VS Code, no Debian aprendi a mexer diretamente no hardware, realizar configurações, compilar projetos e personalizar meu próprio ambiente.
+My first Linux distro was Debian. Installed on an old computer—which still works today—it was there that I truly learned to use the terminal. While I used to rely on VS Code buttons, on Debian I learned to interact directly with the hardware, perform configurations, compile projects, and customize my own environment.
 
-Sobre o meu apelido, "Nobre": ele vem do meu primeiro personagem de RPG. Foi um dos personagens de maior caráter que já criei, e é esse mesmo caráter que guia minhas ações aqui.
+Regarding my nickname, "Nobre": it is a tribute to my very first RPG character. That character was defined by his integrity and values—traits that I admired so much that I adopted them as a personal motto. It serves as a constant reminder of the standard of character and responsibility I strive to maintain in all my work.
 
-### Contexto Atual e Foco Acadêmico
-Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)** na UNIFACS. Meu foco acadêmico e prático é voltado para o desenvolvimento de soluções robustas, com especial interesse em Java para sistemas de grande escala e linguagens focadas em tipagem forte e performance, como Haskell e C/Assembly. Essas duas últimas, sendo apenas em meus testes pessoais. Atualmente meu foco principal é o Java.
+### Current Context and Academic Focus
+I am currently studying **Analysis and Systems Development (ADS)** at UNIFACS. My academic and practical focus is on developing robust solutions, with a special interest in Java for large-scale systems and languages focused on strong typing and performance, such as Haskell and C/Assembly. These last two are limited to my personal experiments. Currently, my main focus is Java.
 
-### Propósito deste Espaço
-Este repositório é o meu ambiente de testes, rascunhos e deploys experimentais. No futuro, estou ansioso para aprender cada vez mais. Busco ambientes de trabalho que permitam explorar novas tecnologias e onde eu possa colaborar na criação de soluções extraordinárias.
+### Purpose of this Space
 
-Isso é tudo por enquanto. Aproveite o meu GitHub!
+I am accustomed to working locally, as it gives me total control over my development process, and I often share these results directly with those around me. Because of this—and many other reasons—I do not intend to host all of my work here, whether now or fifty years from now. I deeply value my local workflow.
+
+However, I do selectively share parts of my journey here. Some projects are uploaded in full, while others are shared only in part. Think of this repository not as a complete laboratory, but as a curated collection of my experiments and progress. In the future, I look forward to working in environments that encourage exploring new technologies and where I can collaborate on building extraordinary solutions.
+
+That's all for now. Enjoy my GitHub!
 
 ---
 
 <div align="center">
-  
-[← Voltar ao Início](https://github.com/nobrew-cell)
+
+[← Back to Home](https://github.com/nobrew-cell)
 
 </div>

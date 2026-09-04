@@ -1,18 +1,12 @@
-# Hello,
+# Hi,
 
-I am a computer enthusiast passionate about infrastructure, backend development, and taking things apart to understand how everything works under the hood. I created this personal lab to log my experiments, share what I learn in practice, test hypotheses, and exchange ideas.
+Or something like that.
 
-Currently, my main language of focus and study is `Java`, which I use to understand and build more robust architectures.
+I am just a human being like you, using this platform as a portfolio. Well, I should say "make yourself at home", so... make yourself at home.
 
-<div align="center">
+### Want to know more?
 
-### ☕ &nbsp; &nbsp; · &nbsp; &nbsp; · &nbsp; &nbsp; ·
-
-</div>
-
-### 📂 Want to know more?
-
-If you want to understand my background, explore the complete catalog of what I have built, or see the reasoning behind my workspace, check out the lab's documentation:
+Well, the buttons below will take you to learn about my story, see the projects I have built, and understand how I like to work:
 
 <div align="center">
 
@@ -27,4 +21,3 @@ If you want to understand my background, explore the complete catalog of what I 
 </a>
 
 </div>
-

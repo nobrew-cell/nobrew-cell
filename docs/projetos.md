@@ -1,49 +1,45 @@
-# 🚀 Registro de Projetos
+# 🚀 Project Log
 
-Este é o lugar onde registro o que estou construindo. Aqui ficam tanto os códigos que estão limpos e versionados no GitHub, quanto as ferramentas que criei para resolver problemas do dia a dia, mas que por enquanto rodam "na minha máquina".
+### 💻 Versioned Projects
 
----
-
-### 💻 Projetos Versionados
-
-Projetos que já estão no GitHub, com histórico e código aberto.
+Projects that are already on GitHub, with version history and open-source code.
 
 <div align="center">
 
-| Projeto | Tecnologia | Foco | Status |
+| Project | Technology | Focus | Status |
 | :--- | :--- | :--- | :--- |
-| [folha-pagamento-ads](https://github.com/nobrew-cell/folha-pagamento-ads) | Feito em `Java` | CLI/Swing | Concluído |
-| [pj-payroll](https://github.com) | `Haskell` e `Java` | Funcional | Em Dev |
+| [folha-pagamento-ads](https://github.com/nobrew-cell/folha-pagamento-ads) | Made with `Java` | CLI/Swing | Completed |
+| [pj-payroll](https://github.com) | `Haskell` and `Java` | Functional | In Development |
 
 </div>
 
 ---
 
-### ⚙️ Ferramentas de Uso Pessoal
+### ⚙️ Personal Tools
 
-Ferramentas que fiz para me organizar ou automatizar algo. Não estão no GitHub, mas foram fundamentais para eu aprender a programar na prática.
+Tools I made to organize myself or automate something. They are not on GitHub, but they were important for learning programming through practice.
 
-> **Transcritor de Lives (Python)**
-> Fiz para não perder tempo assistindo aulas longas. O script usa a API da OpenAI para resumir lives da faculdade, transformando horas de vídeo em resumos curtos que facilitam muito meu estudo.
+> **Live Transcriber (Python)**
+> I made it so I would not waste time watching long classes. The script uses the OpenAI API to summarize college livestreams, turning hours of video into short summaries that make studying much easier.
 
-> **Gerenciador de Treinos (HTML/CSS/JS)**
-> Uma interface web simples que escolhe meus exercícios do dia. Usei um algoritmo básico para evitar que eu fizesse combinações de treinos que não fazem sentido ou que esgotem o músculo de forma errada.
+> **Workout Manager (HTML/CSS/JS)**
+> A simple web interface that chooses my exercises for the day. I used a basic algorithm to avoid workout combinations that do not make sense or that could tire the same muscle in the wrong way.
 
-> **Biblioteca Virtual (Python)**
-> Começou como um monitorador de leitura de livros físicos e evoluiu. Hoje é onde organizo tudo: livros, mangás e leitura técnica. Foco total em persistência de dados local.
+> **Virtual Library (Python)**
+> It started as a reading tracker for physical books and then grew into something bigger. Today, it is where I organize everything: books, manga, and technical reading. The main focus is local data storage.
 
-> **Engine de Rolagem (d20) (Python)**
-> Um motor de lógica para RPG que fiz para testar tratamento de erros e geração de números aleatórios. Foi um dos meus primeiros contatos com parsing de comandos.
+> **Dice Rolling Engine (d20) (Python)**
+> An RPG logic engine I made to test error handling and random number generation. It was one of my first experiences with command parsing.
 
-> **Automação de Logística (Python)**
-> Um dos meus primeiros scripts de automação. Monitora eventos na tela e gerencia recursos automaticamente. Foi onde aprendi a lidar com estados e eventos em tempo real.
+> **Logistics Automation (Python)**
+> One of my first automation scripts. It monitors events on the screen and manages resources automatically. This was where I learned how to work with states and real-time events.
 
 ---
 
-*Este catálogo é um registro do meu aprendizado. Ainda não me decidi sobre quais ferramentas vou refatorar e publicar por aqui, mas, quando isso acontecer, elas aparecem neste registro.*
+*This catalog is a record of my learning. I still have not decided which tools I will refactor and publish here, but when that happens, they will appear in this log.*
 
 <div align="center">
   
-[← Voltar ao Início](https://github.com/nobrew-cell)
+[← Back to Home](https://github.com/nobrew-cell)
 
 </div>
